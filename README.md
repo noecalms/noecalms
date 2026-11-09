@@ -12,7 +12,6 @@
 - 🚀 J'aide les entrepreneurs à créer une application mobile ou un SaaS qui devienne une vraie source de revenus
 - 📱 Plus de 20 applications à mon actif, dont certaines dépassent **1,3 million de téléchargements**
 - 💡 Je m'occupe de tout : le modèle de revenus, le design, le développement et la publication sur l'App Store et Google Play
-- 🎓 Bachelor Développeur Full Stack & DevOps, IPSSI
 - 📍 Basé à Toulouse
 
 👉 **Tu as une idée d'application ? Parlons-en sur [noecalmes.fr](https://noecalmes.fr)**
